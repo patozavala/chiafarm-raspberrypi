@@ -1,8 +1,8 @@
-# Farming Chia's cryptocoin by using a Raspberry Pi
+# Farming eco cryptocoins by using a Raspberry Pi
 
 As enthusiasts of technology and digital assets, we must support projects that reduce the environmental impact that occurs due to the operation of traditional blockchains. In addition, we must propose and develop new open source solutions to accelerate the adoption of these projects in our daily life.
 
-This project intends to present a way of farming Chia's crypto coin by using a raspberry pi connected to a solar electric system. 
+This project intends to present a way of farming crypto coins (such as Chia's crypto coin) by using a Raspberry Pi connected to a solar electric system. 
 
 ## The benefits
 - You could have passive incomes with little investments.
